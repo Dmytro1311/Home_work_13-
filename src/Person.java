@@ -29,6 +29,9 @@ public class Person {
         System.out.println(firstName + " " + gender);
 
     }
+    public Person(){
+
+    }
 
 
 }
